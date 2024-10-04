@@ -1,0 +1,1 @@
+Wow that was really hard. I made text based game with python. Basic rpg game. And with this project I reached 20 python projects. I guess i learned a lot while doing these 20 project.
